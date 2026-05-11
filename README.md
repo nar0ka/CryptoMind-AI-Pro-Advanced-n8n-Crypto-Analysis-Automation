@@ -78,4 +78,10 @@ The AI follows a strict strategic framework to ensure consistency:
 Distributed under the **MIT License**.
 
 ---
+### 🛒 Get Started
+Unlock the full power of automated crypto intelligence today.
+[**👉 Get Full Access on Gumroad**](https://naroka.gumroad.com/l/CryptoMindAIProAnalyst)
+*  **Gumroad:** https://naroka.gumroad.com — check out ready-to-use workflows.
+*  **linkedin:** https://www.linkedin.com/posts/david-ignatenko-3775a6408_ai-n8n-automation-ugcPost-7459649709163307009-K1sA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGgG0IsBIuo7vsmz3baGNWLF3UyD6GDEDRM
+
 *Developed with ❤️ for the Crypto & Automation Community.*
