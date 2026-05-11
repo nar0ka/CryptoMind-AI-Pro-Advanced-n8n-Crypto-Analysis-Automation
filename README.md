@@ -1,0 +1,2 @@
+# CryptoMind-AI-Pro-Advanced-n8n-Crypto-Analysis-Automation
+CryptoMind AI Pro is a sophisticated, enterprise-grade automation workflow built on n8n. It leverages AI (Google Gemini), real-time market data (CoinGecko), and sentiment analysis to provide high-fidelity Bitcoin trading signals. The system delivers actionable insights via Telegram and archives historical data in Google Sheets for backtesting.
