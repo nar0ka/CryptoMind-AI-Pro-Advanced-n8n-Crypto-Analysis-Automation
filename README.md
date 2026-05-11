@@ -9,6 +9,10 @@
 ![CryptoMind AI Pro: Advanced n8n Trading Automation](изображение_2026-05-11_192948005.png)
 ---
 
+<p align="center">
+  <video src="https://youtu.be/cgl9QgSEO5E" width="100%" controls title="CryptoMind AI Pro Demo"></video>
+</p>
+
 ## 🧠 Key Features
 * **AI-Powered Analysis**: Utilizes the **Google Gemini Chat Model** to process complex market data and provide expert reasoning.
 * **Technical Engine**: Custom JavaScript nodes calculate **RSI (Relative Strength Index)** and **Volatility** metrics in real-time.
