@@ -1,3 +1,4 @@
+
 # 🚀 CryptoMind AI Pro: Advanced n8n Trading Automation
 
 ![n8n](https://img.shields.io/badge/n8n-powered-red?style=for-the-badge&logo=n8n)
